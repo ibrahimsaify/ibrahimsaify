@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ibrahim Saify</h1>
 <h3 align="center">Security Researcher at YCF Team. I have a strong passion for Cybersecurity and am eager to transition into a seasoned professional. A Final year Computer Science Engineering Undergraduate at IET DAVV, Indore</h3>
-<img align="right" alt="Cybersecurity" widht="400" src="https://imarticus.org/blog/wp-content/uploads/2021/12/djbwgfw.gif">
+<img align="right" alt="Cybersecurity" widht="350" src="https://imarticus.org/blog/wp-content/uploads/2021/12/djbwgfw.gif">
 
 - 🌱 I’m currently learning **as much I can related to Pentesting and Cybersecurity**
 
