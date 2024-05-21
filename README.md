@@ -1,4 +1,4 @@
-[!MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fimarticus.org%2Fblog%2Flearn-how-to-boost-cybersecurity-as-an-ethical-hacker-with-cyber-security-training%2F&psig=AOvVaw0_ajY5hJ8Gy3h8zj-yMiC3&ust=1716398957800000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLCYi8Oin4YDFQAAAAAdAAAAABAR)
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fimarticus.org%2Fblog%2Flearn-how-to-boost-cybersecurity-as-an-ethical-hacker-with-cyber-security-training%2F&psig=AOvVaw0_ajY5hJ8Gy3h8zj-yMiC3&ust=1716398957800000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLCYi8Oin4YDFQAAAAAdAAAAABAR)]
 <h1 align="center">Hi 👋, I'm Ibrahim Saify</h1>
 <h3 align="center">Security Researcher at YCF Team. I have a strong passion for Cybersecurity and am eager to transition into a seasoned professional. A Final year Computer Science Engineering Undergraduate at IET DAVV, Indore</h3>
 
