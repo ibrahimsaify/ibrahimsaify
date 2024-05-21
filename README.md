@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **ibrahim.saify110@gmail.com**
 
-- ⚡ Fun fact **I play table tennis and I'm also a mediocre Speed cuber.**
+- ⚡ Fun fact **I play table tennis and am also a mediocre Speed cuber.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
